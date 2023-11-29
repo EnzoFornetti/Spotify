@@ -51,7 +51,7 @@ public class Principal {
         }
 
         Podcast pdp = new Podcast();
-        pdp.setAutor("Pode Pah");
+        pdp.setAutor("Pod das Mina");
         pdp.setTitulo("Entrevista Renato Augusto");
         pdp.setDuracaoEmSegundos(9000);
         pdp.setDescricao("Chamamos o RA8 para o estúdio");
