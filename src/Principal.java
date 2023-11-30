@@ -38,7 +38,7 @@ public class Principal {
         Musicas abc = new Musicas();
         abc.setArtista("Olivia Rodrigo");
         abc.setGenero("Pop");
-        abc.setAlbum("PopArt");
+        abc.setAlbum("Desconhecido");
         abc.setTitulo("ABCDEFU");
         abc.setDuracaoEmSegundos(120);
         abc.avalia(3);
