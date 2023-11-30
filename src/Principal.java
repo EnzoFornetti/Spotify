@@ -23,7 +23,7 @@ public class Principal {
         Musicas mn = new Musicas();
         mn.setArtista("Lil Nas X");
         mn.setGenero("Pop/Rap");
-        mn.setAlbum("Montero");
+        mn.setAlbum("Thats What I Want");
         mn.setTitulo("Montero");
         mn.setDuracaoEmSegundos(160);
         mn.avalia(5);
